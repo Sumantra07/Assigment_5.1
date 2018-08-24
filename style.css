@@ -1,0 +1,30 @@
+/*header*/
+header {
+    background: linear-gradient(white,yellow,yellow);
+    margin: 0px;
+    padding: 0px;
+    height: 120px;
+}
+
+/* rest of the gradient */
+article {
+    background: linear-gradient(white,yellow,yellow);
+    margin: 0px;
+    padding: 0px;
+    height: 120px;
+}
+/*for the blue area*/
+.roundedview {
+    background-color: blue;
+    height:70px;
+    width:140px;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    border-radius: 50%;
+    border-width: 1px;
+    margin : 8px;
+ }
+
+
+    
